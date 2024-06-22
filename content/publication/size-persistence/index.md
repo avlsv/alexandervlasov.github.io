@@ -17,7 +17,7 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: To Be Added
+abstract: To Be Added $x^2+1$
 
 # Summary. An optional shortened abstract.
 summary: To Be Added
