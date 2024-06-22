@@ -32,19 +32,17 @@ organizations:
 profiles:
   - icon: at-symbol
     url: 'mailto:avlasov@nes.ru'
-    label: E-mail Me
+  - icon: brands/telegram
+    url: https://twitter.com/aivlasov
   - icon: brands/x
     url: https://twitter.com/aivlasov
   - icon: brands/github
     url: https://github.com/avlsv
   - icon: brands/linkedin
     url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-6443-2385
-  - icon: brands/telegram
-    url: https://twitter.com/aivlasov
+
 
 interests:
   - Monetary Economics
