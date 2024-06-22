@@ -7,6 +7,6 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Papers
-    url: /#papers
+  - name: Current Work
+    url: /currentwork
     weight: 12

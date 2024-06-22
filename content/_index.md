@@ -24,9 +24,8 @@ sections:
       title: Current Work
       filters:
         folders:
-          - wp
+          - currentwork
         featured_only: true
-        exclude_example: true
     design:
       view: list
   # - block: collection
