@@ -7,14 +7,13 @@
 appearance:
   mode: system
   color: teal
-  font: "Mr Robot"
 
 # SEO
 marketing:
   seo:
     site_type: Person
     org_name: ''
-    description: 'Emprical Macroeconomics Researcher'
+    description: 'PhD student researching emprical monetary policy at New Economic School'
     twitter: 'aivlasov'
   analytics:
     google_analytics: ''
