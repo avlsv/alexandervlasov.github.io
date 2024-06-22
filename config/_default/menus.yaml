@@ -8,5 +8,8 @@ main:
     url: /
     weight: 10
   - name: Current Work
-    url: experience/
+    url: currentwork/
     weight: 20
+  - name: Exp
+    url: experience/
+    weight: 30
