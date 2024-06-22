@@ -7,7 +7,8 @@ design:
   spacing: '4rem'
 
 sections:
-    - block: collection
+ - block: collection
+    id: papers
     content:
       title: Current Work
       filters:
