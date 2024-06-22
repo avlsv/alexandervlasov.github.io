@@ -13,10 +13,9 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
     org_name: ''
     description: 'Emprical Macroeconomics Researcher'
-    twitter: 'GetResearchDev'
+    twitter: 'aivlasov'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
