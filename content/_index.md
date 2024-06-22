@@ -27,7 +27,7 @@ sections:
           - currentwork
         featured_only: true
     design:
-      view: citation.end
+      view: card
   # - block: collection
   #   content:
   #     title: Publications
