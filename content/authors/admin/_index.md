@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alexander (I.) Vlasov
+title: Alexander Vlasov
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -31,31 +31,29 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:avlasov@nes.ru'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://twitter.com/aivlasov
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/avlsv
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-6443-2385
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Monetary Economics
+  - Monetary Policy
+  - Econometrics
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD Economics
+    institution: New Economic School
     date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_end: 2027-12-31 (expected)
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
