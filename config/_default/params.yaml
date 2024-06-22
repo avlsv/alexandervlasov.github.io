@@ -7,10 +7,10 @@
 appearance:
   mode: system
   color: teal
-  theme_day: cofee
-  theme_night: cofee
-  font: native
-  font_size: m
+  theme_day: minimal
+  theme_night: minimal
+  font: minimal
+  font_size: L
 
 # SEO
 marketing:
