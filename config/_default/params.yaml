@@ -43,7 +43,7 @@ footer:
     notice: '© 2024 Alexander Vlasov. This work is licensed under [CC BY SA 4.0.](https://creativecommons.org/licenses/by-sa/4.0/)'
     license:
       enable: true
-      allow_derivatives: false
+      allow_derivatives: true
       share_alike: true
       allow_commercial: false
 
@@ -55,6 +55,6 @@ locale:
 # Site features
 features:
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
