@@ -15,7 +15,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+    description: 'Emprical Macroeconomics Researcher'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -24,7 +24,7 @@ marketing:
     fathom: ''
     pirsch: ''
   verification:
-    google: '<meta name="google-site-verification" content="LjPJrv3soWnLNHpCAG8-879v6UXK4X59xLK4Rpr4od4" />'
+    google: <meta name="google-site-verification" content="LjPJrv3soWnLNHpCAG8-879v6UXK4X59xLK4Rpr4od4" />
     baidu: ''
 
 # Site header
