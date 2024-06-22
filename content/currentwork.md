@@ -16,7 +16,6 @@ sections:
         folders:
           - currentwork
         featured_only: true
-        exclude_example: true
     design:
       view: list
 ---
