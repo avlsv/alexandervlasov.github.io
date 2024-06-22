@@ -33,12 +33,12 @@ links:
   url: http://example.org
 url_pdf: https://github.com/avlsv/CheckingHank/blob/56727dde7c049a28f774d9184d9a7dbd5941bf10/Checking_HANK/Paper/CheckingHANK.pdf
 url_code: 'https://github.com/avlsv/CheckingHank'
-url_dataset: '#'
-url_poster: '#'
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
