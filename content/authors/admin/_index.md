@@ -43,6 +43,8 @@ profiles:
     url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-6443-2385
+  - icon: brands/telegram
+    url: https://twitter.com/aivlasov
 
 interests:
   - Monetary Economics
