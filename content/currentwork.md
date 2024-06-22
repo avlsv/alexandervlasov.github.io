@@ -6,7 +6,6 @@ type: landing
 design:
   spacing: '4rem'
 
-
 sections:
     - block: collection
     content:
@@ -16,5 +15,5 @@ sections:
           - currentwork
         featured_only: true
     design:
-      view: list
+      view: citation
 ---
