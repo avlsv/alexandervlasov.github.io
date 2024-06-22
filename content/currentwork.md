@@ -7,7 +7,7 @@ design:
   spacing: '6rem'
 
 sections:
-- block: collection
+  - block: collection
     content:
       title: Current Work
       text: ""
