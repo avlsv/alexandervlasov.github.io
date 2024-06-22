@@ -26,6 +26,7 @@ tags:
 - Large Language Models
 
 featured: true
+example: true
 
 links:
 - name: Custom Link
