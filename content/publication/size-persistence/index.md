@@ -11,13 +11,13 @@ publishDate: "2024-01-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["working paper"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
 
-abstract: To Be Added $x^2+1$
+abstract: To Be Added 
 
 # Summary. An optional shortened abstract.
 summary: To Be Added
@@ -37,7 +37,7 @@ url_project: 'https://github.com/avlsv/CheckingHank'
 # image:
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
 #   focal_point: ""
-#   preview_only: false
+# preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
