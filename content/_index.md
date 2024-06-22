@@ -28,7 +28,7 @@ sections:
         featured_only: true
         exclude_example: true
     design:
-      view: citation
+      view: list
   # - block: collection
   #   content:
   #     title: Publications
