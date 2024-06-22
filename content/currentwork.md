@@ -7,14 +7,15 @@ design:
   spacing: '4rem'
 
 sections:
- - block: collection
-    id: papers
+- block: collection
     content:
       title: Current Work
+      text: ""
       filters:
         folders:
           - currentwork
-        featured_only: true
+        exclude_featured: false
     design:
-      view: list
+      view: citation
+
 ---
