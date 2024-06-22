@@ -2,8 +2,8 @@
 title: "Size-Persistence Tradeoff"
 authors:
 - admin
-date: "2024-09-07T00:00:00Z"
-doi: ""
+date: "2024-01-02T00:00:00Z"
+doi: "12"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-01-01T00:00:00Z"
