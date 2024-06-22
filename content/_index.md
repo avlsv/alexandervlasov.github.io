@@ -41,7 +41,6 @@ sections:
         exclude_example: true
     design:
       view: citation
-      columns: 1
   # - block: collection
   #   content:
   #     title: Publications
