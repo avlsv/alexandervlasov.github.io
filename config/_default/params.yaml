@@ -41,7 +41,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© 2024 Alexander Vlasov. This work is licensed under [CC BY SA 4.0.](https://creativecommons.org/licenses/by-sa/4.0/)'
+    notice: '© {year} Alexander Vlasov. This work is licensed under [CC BY SA 4.0.](https://creativecommons.org/licenses/by-sa/4.0/)'
     license:
       enable: true
       allow_derivatives: true
