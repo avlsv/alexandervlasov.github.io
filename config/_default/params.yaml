@@ -7,6 +7,7 @@
 appearance:
   mode: system
   color: teal
+  font: Atkinson Hyperlegible
 
 # SEO
 marketing:
