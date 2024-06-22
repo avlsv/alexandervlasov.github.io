@@ -7,18 +7,8 @@ type: landing
 design:
   # Default section spacing
   spacing: "6rem"
-  css_class: dark
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: Wavey-Fingerprint.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: true
 
+          
 sections:
   - block: resume-biography-3
     content:
@@ -29,18 +19,18 @@ sections:
       button:
         text: Curriculum vitae
         url: uploads/resume.pdf
-    # design:
-    #   css_class: dark
-    #   background:
-    #     color: black
-    #     image:
-    #       # Add your image background to `assets/media/`.
-    #       filename: Wavey-Fingerprint.svg
-    #       filters:
-    #         brightness: 1.0
-    #       size: cover
-    #       position: center
-    #       parallax: true
+    design:
+      css_class: dark
+      background:
+        color: black
+        image:
+          # Add your image background to `assets/media/`.
+          filename: Wavey-Fingerprint.svg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: true
   - block: collection
     id: papers
     content:
@@ -52,6 +42,18 @@ sections:
         exclude_example: true
     design:
       view: citation
+      design:
+      css_class: dark
+      background:
+        color: black
+        image:
+          # Add your image background to `assets/media/`.
+          filename: Wavey-Fingerprint.svg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: true
   # - block: collection
   #   content:
   #     title: Publications
