@@ -1,42 +1,34 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2024-10-24
+date: 2022-10-24
 type: landing
 
 design:
   # Default section spacing
   spacing: "6rem"
 
-          
 sections:
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: "234"
+      text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Curriculum vitae
-        url: uploads/cv.pdf
-    design:
-      css_class: dark
-      background:
-        color: "#325a4e"
+        url: uploads/resume.pdf
   - block: collection
     id: papers
     content:
       title: Current Work
       filters:
         folders:
-          - wp
+          - publication
         featured_only: true
         exclude_example: true
     design:
       view: citation
-      css_class: dark
-      background:
-        color: "#325a4e"
   # - block: collection
   #   content:
   #     title: Publications
