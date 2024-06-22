@@ -31,6 +31,8 @@ featured: true
 
 
 url_project: 'https://github.com/avlsv/CheckingHank'
+url_pdf: ''
+url_code: 'https://github.com/avlsv/CheckingHank/tree/main/Checking_HANK/Code'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

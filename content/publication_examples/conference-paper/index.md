@@ -38,7 +38,6 @@ tags:
 
 # Display this page in the Featured widget?
 featured: true
-example: true
 
 # Custom links (uncomment lines below)
 # links:
