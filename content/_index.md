@@ -27,7 +27,7 @@ sections:
           - currentwork
         featured_only: true
     design:
-      view: card
+      view: date-title-summary.
   # - block: collection
   #   content:
   #     title: Publications
