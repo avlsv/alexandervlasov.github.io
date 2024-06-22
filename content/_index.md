@@ -37,12 +37,11 @@ sections:
       title: Current Work
       filters:
         folders:
-          - publication
+          - wp
         featured_only: true
         exclude_example: true
     design:
       view: citation
-      design:
       css_class: dark
       background:
         color: black
