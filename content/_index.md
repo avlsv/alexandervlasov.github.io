@@ -1,12 +1,12 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2022-10-24
+date: 2024-06-23
 type: landing
 
 design:
   # Default section spacing
-  spacing: "2rem"
+  spacing: "3rem"
 
 sections:
   - block: resume-biography-3
