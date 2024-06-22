@@ -50,7 +50,7 @@ sections:
         folders:
           - publication
         exclude_featured: false
-        exclude_example: true
+        exclude_example: false
     design:
       view: citation
   - block: collection
