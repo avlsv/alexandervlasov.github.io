@@ -15,5 +15,5 @@ sections:
           - currentwork
         featured_only: true
     design:
-      view: citation
+      view: list
 ---

@@ -9,4 +9,4 @@ main:
     weight: 10
   - name: Current Work
     url: experience/
-    weight: 12
+    weight: 20
