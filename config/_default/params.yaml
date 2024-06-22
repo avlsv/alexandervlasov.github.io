@@ -30,7 +30,6 @@ header:
   navbar:
     enable: true
     blox: "navbar"
-    align: l
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
@@ -41,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Alexander Vlasov. This work is licensed under'
+    notice: '© {year} Alexander Vlasov. This work is licensed under [CC BY SA 4.0.](https://creativecommons.org/licenses/by-sa/4.0/)'
     license:
       enable: true
       allow_derivatives: true
