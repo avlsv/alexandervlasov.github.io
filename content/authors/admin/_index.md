@@ -40,8 +40,8 @@ profiles:
     url: https://github.com/avlsv
   - icon: brands/linkedin
     url: https://www.linkedin.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-6443-2385
+  - icon: academicons/ideas-repec
+    url: https://ideas.repec.org/e/pvl54.html
 
 
 interests:
