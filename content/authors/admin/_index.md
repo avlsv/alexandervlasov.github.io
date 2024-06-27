@@ -123,4 +123,4 @@ languages:
 
 ## About Me
 
-Alexander Vlasov is a PhD student at New Economic School.
+Alexander Vlasov is a PhD candidate in economics at New Economic School.
